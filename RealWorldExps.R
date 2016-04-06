@@ -7,7 +7,7 @@ library(scales)
 
 setwd("") #USER MUST SET WORKING DIRECTORY
 
-source("NDCGphi.R")
+source("GoD_phi.R")
 
 #LOAD DATA
 
