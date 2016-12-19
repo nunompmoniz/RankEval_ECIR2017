@@ -1,4 +1,4 @@
-# RankEval_ECIR2017
+# RankEval_arXiv2017
 Data-Driven Relevance Judgments for Ranking Evaluation
 
 In this repository you will find the code and data used to execute the experimental process (designed for R) of the paper "Data-Driven Relevance Judgments for Ranking Evaluations". 
